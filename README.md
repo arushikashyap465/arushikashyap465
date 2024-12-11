@@ -11,12 +11,12 @@ I thrive on solving challenges through predictive modeling, data analysis, and a
 * What I Learned: Advanced feature engineering, neural network design, and handling class imbalance in sparse datasets.
 
 ## 🚀 Other Projects
-** Whack-A-Mole (Mobile Game) **
+**Whack-A-Mole (Mobile Game)**
 * A fun and interactive mobile game where players tap to "catch the mole" as it pops up on screen.
 * Tech Stack: Java, Android Studio
 * What I Learned: Mobile game mechanics and user engagement strategies.
 
-** OpenWeather (Weather Finder App) **
+**OpenWeather (Weather Finder App)**
 * A mobile application that fetches real-time weather data for any location using OpenWeather API.
 * Tech Stack: Java, Android Studio, REST APIs
 * What I Learned: API integration and improving user interface for seamless interaction.
