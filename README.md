@@ -29,6 +29,8 @@ I thrive on solving challenges through predictive modeling, data analysis, and a
 * Databases: SQL, MySQL
 
 Email: arushi.k.465@gmail.com
+
 LinkedIn: linkedin.com/in/arushikashyap-
+
 GitHub: github.com/arushikashyap465
 
