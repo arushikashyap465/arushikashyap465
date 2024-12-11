@@ -33,6 +33,7 @@ I thrive on solving challenges through predictive modeling, data analysis, and a
 * Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 * Databases: SQL, MySQL
 
+
 Email: arushi.k.465@gmail.com
 
 LinkedIn: linkedin.com/in/arushikashyap-
