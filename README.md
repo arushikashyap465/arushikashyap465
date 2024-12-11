@@ -21,6 +21,11 @@ I thrive on solving challenges through predictive modeling, data analysis, and a
 * Tech Stack: Java, Android Studio, REST APIs
 * What I Learned: API integration and improving user interface for seamless interaction.
 
+**Adventure Packages Application**
+* A mobile application that showcases adventure products/packages with a scrollable interface. Users can tap on a package to view detailed information.
+* Tech Stack: Java, Android Studio
+* What I Learned: Enhancing user experience through smooth UI design and dynamic data presentation.
+
 ## 🛠 Tech Stack
 * Languages: Python, Java, C, C++, SQL
 * Data Science/ML: pandas, NumPy, scikit-learn, TensorFlow
